@@ -1,7 +1,7 @@
 Darkstar.se
 ============
 
-This repository contains the source that runs the site [darkstar.se](http://www.darkstar.se). It's built upon [Laravel 4](http://github.com/laravel/framework).
+This repository contains the source that runs the site [darkstar.se](http://www.darkstar.se). It's built upon [Laravel 4](http://laravel.com/).
 
 ### Information
 This will be open-sourced so people can see how we built our site.
